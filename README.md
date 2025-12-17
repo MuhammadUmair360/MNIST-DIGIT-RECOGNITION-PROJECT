@@ -1,6 +1,6 @@
 # MNIST Digit Classification: Classical ML vs. Deep Learning
 
-**Team Members:**
+**By:**
 * Muhammad Umair (506068)
 
 ---
