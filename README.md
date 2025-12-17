@@ -82,6 +82,7 @@ The model Successfully recognised the digits from zero to 9.
 ![Digit(1) Recognition](results/1.PNG)
 ![Digit(2) Recognition](results/2.PNG)
 ![Digit(3) Recognition](results/three.PNG)
+
 ### Statistical Significance Tests
 A **one-sample t-test** was used to compare the CNN against the classical model baseline:
 * **p-value:** 0.12325
