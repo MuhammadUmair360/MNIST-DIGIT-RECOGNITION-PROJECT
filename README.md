@@ -63,7 +63,7 @@ A Convolutional Neural Network (CNN) was implemented:
 | SVM | 0.9552 | 0.96 |
 | **CNN** | **0.9878** | **0.99** |
 
-results/comparison .PNG
+![Models Comparison](results/comparison.PNG)
 
 ### Visualization of Results
 The CNN training history shows excellent convergence with minimal overfitting due to the dropout layers.
