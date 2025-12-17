@@ -75,6 +75,10 @@ The confusion matrix highlights that the model is extremely robust, with only mi
 
 ![Confusion Matrix](results/confusion_matrix.png)
 
+#### Model's working
+The model Successfully recognised the digits from zero to 9.
+
+![Digits Recognition](results/digits.png)
 ### Statistical Significance Tests
 A **one-sample t-test** was used to compare the CNN against the classical model baseline:
 * **p-value:** 0.12325
