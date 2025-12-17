@@ -63,22 +63,25 @@ A Convolutional Neural Network (CNN) was implemented:
 | SVM | 0.9552 | 0.96 |
 | **CNN** | **0.9878** | **0.99** |
 
-![Models Comparison](results/comparison.png)
+![Models Comparison](results/comparison.PNG)
 
 ### Visualization of Results
 The CNN training history shows excellent convergence with minimal overfitting due to the dropout layers.
 
-![CNN Training](results/cnn_training_curves.png)
+![CNN Training](results/cnn_training_curves.PNG)
 
 #### Confusion Matrix Analysis
 The confusion matrix highlights that the model is extremely robust, with only minor confusion between visually similar digits such as '7' and '2'.
 
-![Confusion Matrix](results/confusion_matrix.png)
+![Confusion Matrix](results/confusion_matrix.PNG)
 
 #### Model's working
 The model Successfully recognised the digits from zero to 9.
 
-![Digits Recognition](results/digits.png)
+![Digits Recognition](results/zero.PNG)
+![Digits Recognition](results/1.PNG)
+![Digits Recognition](results/2.PNG)
+![Digits Recognition](results/three.PNG)
 ### Statistical Significance Tests
 A **one-sample t-test** was used to compare the CNN against the classical model baseline:
 * **p-value:** 0.12325
